@@ -17,5 +17,6 @@ github_username:  yuefeng21
 # medium_username: lorem_ipsum
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
+google_analytics: 4279037344
 
 exclude: ['package.json', 'src' , 'node_modules']
