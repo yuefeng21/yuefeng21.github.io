@@ -72,6 +72,8 @@ You can (and should) edit the `.html` files for adding your own information, ico
 </a>
 ```
 
+https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-style-in-five-minutes/
+
 # Running locally
 
 In order to compile the assets and run `Jekyll` locally you need to follow those steps:
