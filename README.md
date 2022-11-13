@@ -81,6 +81,12 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 3. Run `bundle exec jekyll build`
 4. Start and http-server in the folder `_site`
 
+Clone down the theme's repository (git clone https://github.com/pages-themes/cayman)
+cd into the theme's directory
+Run script/bootstrap to install the necessary dependencies
+Run bundle exec jekyll serve to start the preview server
+Visit localhost:4000 in your browser to preview the theme
+
 # Contribution
 
 - Report issues
