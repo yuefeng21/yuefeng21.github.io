@@ -79,6 +79,7 @@ https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-style-in-f
 In order to compile the assets and run `Jekyll` locally you need to follow those steps:
 
 1. Install Jekyll
+1.1 `chruby 3.1.3`
 2. Run `bundle install`
 3. Run `bundle exec jekyll build`
 4. Start and http-server in the folder `_site`
