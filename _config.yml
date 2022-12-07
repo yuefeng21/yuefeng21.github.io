@@ -23,3 +23,12 @@ google_analytics: 4279037344
 # sidebar-avatar: /assets/images/me.jpg
 
 exclude: ['package.json', 'src' , 'node_modules']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - any_additional_item # any user-specific listing goes at the end
