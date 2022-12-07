@@ -82,8 +82,10 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 2. `chruby 3.1.3`
 3. Run `bundle install`
 4. Run `bundle exec jekyll build`
-5. Start and http-server in the folder `_site`
+5. bundle add webrick
+6. `bundle exec jekyll serve`
 
+TL;DR
 Clone down the theme's repository (git clone https://github.com/pages-themes/cayman)
 cd into the theme's directory
 Run script/bootstrap to install the necessary dependencies
