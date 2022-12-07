@@ -83,7 +83,7 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 3. Run `bundle install`
 4. Run `bundle exec jekyll build`
 5. bundle add webrick
-6. `bundle exec jekyll serve`
+6. RUn`bundle exec jekyll serve`
 
 TL;DR
 Clone down the theme's repository (git clone https://github.com/pages-themes/cayman)

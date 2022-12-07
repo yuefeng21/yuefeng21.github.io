@@ -24,8 +24,6 @@ google_analytics: 4279037344
 
 exclude: ['package.json', 'src' , 'node_modules']
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - node_modules
   - vendor/bundle/
   - vendor/cache/
