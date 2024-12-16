@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="../assets/css/devicon.min.css">
+
 <html lang="en">
   {% include head.html %}
   <body>
@@ -7,7 +8,12 @@
       <section id="about">
         {% include about.html %}
       </section>
-        {{ content }}
+        <!-- {{ content }} -->
+      {% include publications.html %}
+      {% include services.html %}
+      {% include intership.html %}
+      {% include education.html %}
+      {% include Misc.html %}
       {% include footer.html %}
   </body>
 </html>
