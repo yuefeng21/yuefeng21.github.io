@@ -1,6 +1,6 @@
 # Jekyll Resume Theme
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+Live demo at https://jekyll-theme-minimal-resume.netlify.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
 
@@ -15,17 +15,15 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 ![](https://img.shields.io/badge/devicon-✓-blue.svg)
 ![](https://img.shields.io/badge/gulp-✓-blue.svg)
 
-***
-
-<h3 align="center">Please help this repo with a :star: if you find it useful! :blush:</h3>
-
-***
-
 # Screenshot
 
 <p align="center">
   <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
 </p>
+
+# If this helped, consider buying me a coffee! ☕️
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/murraco)
 
 # Quick Setup
 
@@ -72,25 +70,14 @@ You can (and should) edit the `.html` files for adding your own information, ico
 </a>
 ```
 
-https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-style-in-five-minutes/
-
 # Running locally
 
 In order to compile the assets and run `Jekyll` locally you need to follow those steps:
 
 1. Install Jekyll
-2. `chruby 3.1.3`
-3. Run `bundle install`
-4. Run `bundle exec jekyll build`
-5. bundle add webrick
-6. RUn`bundle exec jekyll serve`
-
-TL;DR
-Clone down the theme's repository (git clone https://github.com/pages-themes/cayman)
-cd into the theme's directory
-Run script/bootstrap to install the necessary dependencies
-Run bundle exec jekyll serve to start the preview server
-Visit localhost:4000 in your browser to preview the theme
+2. Run `bundle install`
+3. Run `bundle exec jekyll build`
+4. Start and http-server in the folder `_site`
 
 # Contribution
 
@@ -102,3 +89,7 @@ Visit localhost:4000 in your browser to preview the theme
 # Credits
 
 - [Nathan Randecker](https://github.com/nrandecker)
+
+# Buy me a coffee to show your support!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/murraco)
